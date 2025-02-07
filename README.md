@@ -17,3 +17,4 @@ The project focuses on:
 * Performance Analysis: Exploring the number of medals per sport and identifying top-performing countries.
 * Trends Over Time: Studying the evolution of the Olympics and changes in athlete characteristics.
 * Country Comparison: Identifying the most participating and medal-winning countries.
+etc...
